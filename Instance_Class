@@ -1,0 +1,46 @@
+return {
+    Properties = {
+        "Archivable",
+        "ClassName",
+        "Name",
+        "Parent",
+        "RobloxLocked",
+        "SourceAssetId",
+    };
+    Functions = {
+        "ClearAllChildren",
+        "Clone",
+        "Destroy",
+        "FindFirstAncestor",
+        "FindFirstAncestorOfClass",
+        "FindFirstAncestorWhichIsA",
+        "FindFirstChild",
+        "FindFirstChildOfClass",
+        "FindFirstChildWhichIsA",
+        "FindFirstDescendant",
+        "GetActor",
+        "GetAttribute",
+        "GetAttributeChangedSignal",
+        "GetAttributes",
+        "GetChildren",
+        "GetDebugId",
+        "GetDescendants",
+        "GetFullName",
+        "GetPropertyChangedSignal",
+        "IsA",
+        "IsAncestorOf",
+        "IsDescendantOf",
+        "SetAttribute",
+        "WaitForChild",
+    };
+    Events = {
+        "AncestryChanged",
+        "AttributeChanged",
+        "Changed",
+        "ChildAdded",
+        "ChildRemoved",
+        "DescendantAdded",
+        "DescendantRemoved",
+        "Destroying",
+    };
+}
